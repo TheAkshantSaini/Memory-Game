@@ -28,7 +28,7 @@ This is a simple memory game implemented using HTML, CSS, and JavaScript. The go
 
 ## Credits
 
-The game was created by [Your Name]. Feel free to customize and modify the code to suit your needs.
+The game was created by Akshant Saini. Feel free to customize and modify the code to suit your needs.
 
 Emoji icons used in the game are sourced from [EmojiOne](https://emojione.com/) and [Twemoji](https://twemoji.twitter.com/).
 
