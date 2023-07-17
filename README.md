@@ -2,6 +2,10 @@
 
 This is a simple memory game implemented using HTML, CSS, and JavaScript. The goal of the game is to match pairs of cards with the same emoji.
 
+## Play Now!
+
+### Play Game Here - [Play Now!](https://codepen.io/BitH0xker/full/XWyEYbe) Or [Here!](https://pralinkhaira.github.io/Memory-Game/)
+
 ## How to Play
 
 1. Open the `index.html` file in your web browser.
